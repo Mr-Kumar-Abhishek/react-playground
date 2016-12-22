@@ -1,4 +1,13 @@
+
+
+
+class Container extends React.Component {
+  render() {
+	  return (<h1>Tic Tac Toe</h1>);
+  }
+}
+
 ReactDOM.render(
-    <h1>Tic Tac Toe</h1>,
+    <Container />,
     document.getElementById('root')
 );
