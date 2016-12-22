@@ -1,7 +1,7 @@
 # tic-tac-toe
 
 
-#### Instructions
+#### Instructions:
 
 Install http-server over NPM:
 
@@ -10,7 +10,7 @@ $ cd tic-tac-toe
 $ npm install -g http-server
 ```
 
-Then, use it to view it.
+Then, use the server to view the game.
 
 ```
 $ http-server
