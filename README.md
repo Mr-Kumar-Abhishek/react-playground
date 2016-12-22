@@ -10,7 +10,7 @@ $ cd react-playground
 $ npm install -g http-server
 ```
 
-Then, use the server to view the game.
+Then, use the server to view it.
 
 ```
 $ http-server
