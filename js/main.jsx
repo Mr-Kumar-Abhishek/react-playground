@@ -3,7 +3,7 @@
 
 class Container extends React.Component {
   render() {
-	  return (<h1>Tic Tac Toe</h1>);
+	  return (<h1>React Playground</h1>);
   }
 }
 

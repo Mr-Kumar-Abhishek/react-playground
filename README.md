@@ -1,4 +1,4 @@
-# tic-tac-toe
+# react-playground
 
 
 #### Instructions:
@@ -6,7 +6,7 @@
 Install http-server over NPM:
 
 ```
-$ cd tic-tac-toe
+$ cd react-playground
 $ npm install -g http-server
 ```
 
